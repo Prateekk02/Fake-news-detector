@@ -9,6 +9,8 @@ indicative of misinformation.
 
 ## Features
     
-- User Interactive Interface to paste the concerning new article.
+- User Interactive Interface to check news feed and check if it is real or fake.
+- A text box for manual verification of a user entered news article.
 - Classifies news articles as fake or real based on their content.
+- If a news article is found out to be fake then system tries to find the best possible article based on the given news article.
  
